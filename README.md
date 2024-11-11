@@ -9,6 +9,7 @@ I'm **Vivek Kumar Sharma**, a passionate Full Stack Developer and Data Analyst.
 
 ### Connect with Me
 - LinkedIn - https://www.linkedin.com/in/vivekkumarsharma19110/
+- Email - viveksharma19110@gmail.com
 
 
 
